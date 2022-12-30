@@ -53,42 +53,42 @@ table {
 }
 
 @font-face {
-  font-family: "DM Sans";
+  font-family: "DMSans";
   font-display: swap;
   src: url("DMSans-Bold.woff2") format("woff2"), url("DMSans-Bold.woff") format("woff");
   font-weight: 700;
   font-style: normal;
 }
 @font-face {
-  font-family: "DM Sans";
+  font-family: "DMSans";
   font-display: swap;
   src: url("DMSans-BoldItalic.woff2") format("woff2"), url("DMSans-BoldItalic.woff") format("woff");
   font-weight: 400;
   font-style: Italic;
 }
 @font-face {
-  font-family: "DM Sans";
+  font-family: "DMSans";
   font-display: swap;
   src: url("DMSans-Italic.woff2") format("woff2"), url("DMSans-Italic.woff") format("woff");
   font-weight: 400;
   font-style: Italic;
 }
 @font-face {
-  font-family: "DM Sans";
+  font-family: "DMSans";
   font-display: swap;
   src: url("DMSans-MediumItalic.woff2") format("woff2"), url("DMSans-MediumItalic.woff") format("woff");
   font-weight: 400;
   font-style: Italic;
 }
 @font-face {
-  font-family: "DM Sans";
+  font-family: "DMSans";
   font-display: swap;
   src: url("DMSans-Medium.woff2") format("woff2"), url("DMSans-Medium.woff") format("woff");
   font-weight: 500;
   font-style: normal;
 }
 @font-face {
-  font-family: "DM Sans";
+  font-family: "DMSans";
   font-display: swap;
   src: url("DMSans-Regular.woff2") format("woff2"), url("DMSans-Regular.woff") format("woff");
   font-weight: 400;
@@ -112,7 +112,7 @@ body {
   margin-top: 50px;
 }
 .imgs .title {
-  font-family: "DM Sans";
+  font-family: "DMSans";
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -188,7 +188,7 @@ body {
   justify-content: space-between;
 }
 .wrapper header .header .header__container .header__body nav a {
-  font-family: "DM Sans";
+  font-family: "DMSans";
   font-style: normal;
   font-weight: 400;
   font-size: 17px;
@@ -235,7 +235,7 @@ body {
   }
 }
 .wrapper header .intro .intro__container .intro__body .text h2 {
-  font-family: "DM Sans";
+  font-family: "DMSans";
   font-style: normal;
   font-weight: 400;
   font-size: 70px;
@@ -284,7 +284,7 @@ body {
   justify-content: space-between;
 }
 .wrapper main .wrapper-main .content__1 .content__container .content__body .title h2 {
-  font-family: "DM Sans";
+  font-family: "DMSans";
   font-style: normal;
   font-weight: 400;
   font-size: 64px;
@@ -326,7 +326,7 @@ body {
   width: 100%;
 }
 .wrapper main .wrapper-main .content__1 .content__container .content__body .title button a {
-  font-family: "DM Sans";
+  font-family: "DMSans";
   font-style: normal;
   font-weight: 400;
   font-size: 17px;
@@ -371,7 +371,7 @@ body {
   justify-content: space-between;
 }
 .wrapper main .wrapper-main .content__1 .content__container .content__body .blocks .block .text .block-title h4 {
-  font-family: "DM Sans";
+  font-family: "DMSans";
   font-style: normal;
   font-weight: 400;
   font-size: 17px;
@@ -379,7 +379,7 @@ body {
   color: #118DA8;
 }
 .wrapper main .wrapper-main .content__1 .content__container .content__body .blocks .block .text .block-title h2 {
-  font-family: "DM Sans";
+  font-family: "DMSans";
   font-style: normal;
   font-weight: 400;
   font-size: 64px;
@@ -401,7 +401,7 @@ body {
   margin-top: 30px;
 }
 .wrapper main .wrapper-main .content__1 .content__container .content__body .blocks .block .text .txt p {
-  font-family: "DM Sans";
+  font-family: "DMSans";
   font-style: normal;
   font-weight: 400;
   font-size: 22px;
@@ -420,7 +420,7 @@ body {
 }
 .wrapper main .wrapper-main .content__1 .content__container .content__body .blocks .block .text .btn button a {
   text-decoration: none;
-  font-family: "DM Sans";
+  font-family: "DMSans";
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -466,7 +466,7 @@ body {
   }
 }
 .wrapper main .wrapper-main .content__2 .content__container .content__body .text .title {
-  font-family: "DM Sans";
+  font-family: "DMSans";
   font-style: normal;
   font-weight: 400;
   font-size: 65px;
@@ -486,7 +486,7 @@ body {
 }
 .wrapper main .wrapper-main .content__2 .content__container .content__body .text p {
   margin-top: 30px;
-  font-family: "DM Sans";
+  font-family: "DMSans";
   font-style: normal;
   font-weight: 400;
   font-size: 22px;
@@ -522,7 +522,7 @@ body {
   padding: 60px 70px 140px;
 }
 .wrapper main .wrapper-main .content__3 .content__container .content__body .text .title {
-  font-family: "DM Sans";
+  font-family: "DMSans";
   font-style: normal;
   font-weight: 400;
   font-size: 72px;
@@ -552,7 +552,7 @@ body {
   border-radius: 6px;
   height: 60px;
   width: 522px;
-  font-family: "DM Sans";
+  font-family: "DMSans";
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
@@ -582,7 +582,7 @@ body {
   margin-top: 30px;
 }
 .wrapper main .wrapper-main .content__3 .content__container .content__body .inputs button a {
-  font-family: "DM Sans";
+  font-family: "DMSans";
   font-style: normal;
   font-weight: 700;
   font-size: 15px;
@@ -630,7 +630,7 @@ body {
   color: #FFFFFF;
 }
 .wrapper main .wrapper-main .content__4 .content__container .content__body .blocks .column .block .txt p {
-  font-family: "DM Sans";
+  font-family: "DMSans";
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
@@ -678,7 +678,7 @@ body {
 }
 .wrapper footer .footer .footer__container .footer__body .navigation nav a {
   text-decoration: none;
-  font-family: "DM Sans";
+  font-family: "DMSans";
   font-style: normal;
   font-weight: 400;
   font-size: 17px;
