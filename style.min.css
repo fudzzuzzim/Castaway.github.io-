@@ -53,42 +53,42 @@ table {
 }
 
 @font-face {
-  font-family: DM Sans;
+  font-family: "DM Sans";
   font-display: swap;
   src: url("DMSans-Bold.woff2") format("woff2"), url("DMSans-Bold.woff") format("woff");
   font-weight: 700;
   font-style: normal;
 }
 @font-face {
-  font-family: DM Sans;
+  font-family: "DM Sans";
   font-display: swap;
   src: url("DMSans-BoldItalic.woff2") format("woff2"), url("DMSans-BoldItalic.woff") format("woff");
   font-weight: 400;
   font-style: Italic;
 }
 @font-face {
-  font-family: DM Sans;
+  font-family: "DM Sans";
   font-display: swap;
   src: url("DMSans-Italic.woff2") format("woff2"), url("DMSans-Italic.woff") format("woff");
   font-weight: 400;
   font-style: Italic;
 }
 @font-face {
-  font-family: DM Sans;
+  font-family: "DM Sans";
   font-display: swap;
   src: url("DMSans-MediumItalic.woff2") format("woff2"), url("DMSans-MediumItalic.woff") format("woff");
   font-weight: 400;
   font-style: Italic;
 }
 @font-face {
-  font-family: DM Sans;
+  font-family: "DM Sans";
   font-display: swap;
   src: url("DMSans-Medium.woff2") format("woff2"), url("DMSans-Medium.woff") format("woff");
   font-weight: 500;
   font-style: normal;
 }
 @font-face {
-  font-family: DM Sans;
+  font-family: "DM Sans";
   font-display: swap;
   src: url("DMSans-Regular.woff2") format("woff2"), url("DMSans-Regular.woff") format("woff");
   font-weight: 400;
